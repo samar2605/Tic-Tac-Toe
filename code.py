@@ -33,7 +33,6 @@ def ask_user():
         print("Repeat!")
         ask_user()    
 
-#b=[0,0,1,0,1,0,1,0,0]
 
 def check(a):
     if a[0]==1:
